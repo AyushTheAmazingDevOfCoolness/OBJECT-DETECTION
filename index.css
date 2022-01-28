@@ -1,0 +1,32 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px; 
+}
+button
+{
+    width: 250px;
+    height: 70px;
+    background-color: cyan;
+    border-radius: 10px;
+    box-shadow:  5px 5px 5px grey;
+    font-size: 30px;
+    font-weight: bold;
+}
+#Bedroom
+{
+    margin-top: 150px;
+}

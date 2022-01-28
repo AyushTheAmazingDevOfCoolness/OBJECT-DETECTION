@@ -1,0 +1,18 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+#BedroomH2
+{
+    width: 500px;
+    height: 75px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 35px;
+}
+canvas
+{
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 10px;
+}
